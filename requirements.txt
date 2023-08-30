@@ -3,5 +3,4 @@ numpy
 streamlit
 openpyxl
 datetime
-pythoncom
-win32com
+
