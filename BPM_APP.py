@@ -4,6 +4,7 @@ import os
 import warnings
 import streamlit as st
 from io import BytesIO
+import openpyxl
 from openpyxl import Workbook
 from datetime import datetime
 import tempfile
