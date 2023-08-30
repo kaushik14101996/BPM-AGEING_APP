@@ -3,5 +3,6 @@ numpy
 streamlit
 openpyxl
 datetime
+pywin32
 
 
