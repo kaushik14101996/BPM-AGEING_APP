@@ -1,0 +1,11 @@
+pandas
+numpy
+os
+warnings
+streamlit
+io
+openpyxl
+datetime
+tempfile
+pythoncom
+win32com
