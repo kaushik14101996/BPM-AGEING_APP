@@ -1,10 +1,8 @@
 pandas
 numpy
-warnings
 streamlit
 io
 openpyxl
 datetime
-tempfile
 pythoncom
 win32com
