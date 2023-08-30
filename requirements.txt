@@ -1,8 +1,13 @@
-pandas
-numpy
-streamlit
-openpyxl
-datetime
-pywin32
+matplotlib==3.7.1
+numpy==1.24.3
+openpyxl==3.1.2
+pandas==2.0.2
+Pillow==9.5.0
+Pillow==10.0.0
+pywin32==306
+seaborn==0.12.2
+streamlit==1.26.0
+XlsxWriter==3.1.2
+
 
 
