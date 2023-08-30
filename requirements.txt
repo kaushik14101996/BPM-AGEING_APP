@@ -1,7 +1,6 @@
 pandas
 numpy
 streamlit
-io==23.2.1
 openpyxl
 datetime
 pythoncom
